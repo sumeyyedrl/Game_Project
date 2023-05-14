@@ -161,6 +161,11 @@ function drawDoor(){
         xDoor=pos*box;
         yDoor=11*box;
     }
+    
+    console.log("ust,sag,sol,alt belirleyecek="+loc);
+    console.log("pozisyonu belirleyecek="+pos);
+    console.log("x koordinati="+xDoor);
+    console.log("y koordinati="+yDoor);
 
     //resim yüklenir
     var door=new Image();
