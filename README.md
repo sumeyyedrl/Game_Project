@@ -21,7 +21,7 @@ Don't forget that in order to escape you need to collect all the 5 keys otherwis
 **This project mostly includes Javascript codes. Key press and mouse click are listenning by the event listenners and helping you to control the game. Other than that HTML Canvas element creates the chance to draw the game on a website.**
 
 ### Prerequisites
-All you need to do is go to the [link](http://escaperoom.coolpage.biz/) and start enjoying the game!
+All you need to do is go to this [link](http://escaperoom.coolpage.biz/) and start enjoying the game!
 
 ## Built With
 [VSCode](https://code.visualstudio.com/) - The editor that has been used.
