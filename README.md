@@ -18,7 +18,7 @@ Don't forget that in order to escape you need to collect all the 5 keys otherwis
 
 ![Ekran görüntüsü 2023-05-14 173944](https://github.com/sumeyyedrl/Game_Project/assets/92041818/d7d324a4-7869-4808-b1f4-320842c17e78)
 
-**This project mostly includes Javascript codes. Key press and mouse click are listenning by the event listenners and helping you to control the game. Other than that HTML Canvas element creates the chance to draw the game on a website.**
+**This project mostly includes Javascript codes. Key press and mouse click are listenning by the event listenners and helping you to control the game. Other than that HTML Canvas element creates the chance to draw the game on a website. The codes and the icons that have been used are uploaded.**
 
 ### Prerequisites
 All you need to do is go to this [link](http://escaperoom.coolpage.biz/) and start enjoying the game!
